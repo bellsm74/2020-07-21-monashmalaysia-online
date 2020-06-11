@@ -83,6 +83,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="general">*Registration*</h2>
 
 <h2 id="general">General Information</h2>
 
