@@ -84,7 +84,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="general">Registration</h2>
-<p>Please register your interest by 5 July 2020 in these workshops by filling up this <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6nSjFhGQgT3WqPTsykJE-QFTkST8kHIO7-5XJL3fA8D2apw/viewform">form</a>.</p>
+<p>Please register your interest in the Library Carpentry workshops by 5 July 2020 by filling up this <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6nSjFhGQgT3WqPTsykJE-QFTkST8kHIO7-5XJL3fA8D2apw/viewform">form</a>.</p>
 
 <h2 id="general">General Information</h2>
 
